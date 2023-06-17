@@ -54,8 +54,11 @@ scikit-learn
 -   Fitting the data to the SARIMAX model
 -   Comparing the AIC score with the ARIMA model for evaluation
 -   Plotting the forecasted and actual values to visualize the model's accuracy
+-   ![2yr forecast](https://github.com/rcdeepak/Univariate-Time-Series-Forecasting-with-ARIMA-AND-SARIMAX/assets/118427592/94843338-d012-486d-8154-af8d53a19ac1)
+
 7.  Result Analysis:
 -   Computing the Root Mean Squared Error (RMSE) value to assess the performance of the forecasts
 -   Forecasting the Champagne sales for the next two years based on the SARIMAX model
 ## Results
 The SARIMAX model outperformed the ARIMA model in terms of forecasting accuracy, yielding a lower AIC score. The forecasts obtained from the SARIMAX model closely matched the actual sales data, demonstrating the model's ability to capture and account for the underlying seasonality in the Champagne sales dataset. The computed RMSE value of 240 indicated
+![comparison](https://github.com/rcdeepak/Univariate-Time-Series-Forecasting-with-ARIMA-AND-SARIMAX/assets/118427592/924a7e26-13aa-4b02-ba27-e0a415baddb3)
